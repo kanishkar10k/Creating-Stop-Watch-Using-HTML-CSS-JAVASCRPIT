@@ -1,1 +1,1 @@
-# Creating-Stop-Watch-Using-HTML-CSS-JAVASCRPIT
+# stop-watch-using-javascript
